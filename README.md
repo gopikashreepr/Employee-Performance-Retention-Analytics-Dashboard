@@ -33,7 +33,7 @@ The project is built using the **IBM HR Analytics Employee Attrition & Performan
 ---
 
 ## 🧾 Dataset
-**Source:** [IBM HR Analytics Employee Attrition & Performance (Kaggle)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-employee-attrition-performance)  
+**Source:** [IBM HR Analytics Employee Attrition & Performance (Kaggle)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data)  
 **Records:** 1470 employees  
 **Key Columns:** Age, Department, Education, Gender, JobRole, MonthlyIncome, PerformanceRating, Attrition  
 
