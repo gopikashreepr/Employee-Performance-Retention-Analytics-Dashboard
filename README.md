@@ -96,7 +96,7 @@ SWITCH(
     employee_attrition_results[Age] < 50, "40–49",
     "50+"
 )
-
+```
 ---
 
 ## 🌟 Key Insights
