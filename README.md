@@ -120,7 +120,7 @@ SWITCH(
 **Gopikashree PR**  
 _Data Analyst | Power BI Developer | Machine Learning Enthusiast_  
 
-📧 [your.email@example.com](mailto:gopikassakipog@gmail.com)  
+📧 [gopikassakipog@gmail.com](mailto:gopikassakipog@gmail.com)  
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/gopikashree-pr)
 
 ---
