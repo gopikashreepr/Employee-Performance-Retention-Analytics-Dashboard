@@ -96,3 +96,35 @@ SWITCH(
     employee_attrition_results[Age] < 50, "40–49",
     "50+"
 )
+
+---
+
+## 🌟 Key Insights
+
+- Employees with **low job satisfaction** and **high overtime** show higher attrition risk.  
+- **Attrition rates** are higher among employees with **under 3 years of tenure**.  
+- **Work-life balance** and **environment satisfaction** strongly impact retention and overall performance.
+
+---
+
+## 🧩 Future Enhancements
+
+- 📤 **Publish to Power BI Service** and enable **scheduled data refresh** for real-time analytics.  
+- ⚙️ **Integrate Power Automate** to trigger HR alerts for at-risk employees.  
+- 🧠 Experiment with **SHAP** or **LIME** for AI explainability in predictive modeling.  
+
+---
+
+## 👨‍💻 Author
+
+**Gopikashree PR**  
+_Data Analyst | Power BI Developer | Machine Learning Enthusiast_  
+
+📧 [your.email@example.com](mailto:gopikassakipog@gmail.com)  
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/gopikashree-pr)
+
+---
+
+⭐ **If you found this project useful, consider giving it a star on GitHub!**  
+
+---
